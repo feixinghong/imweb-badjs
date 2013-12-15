@@ -1,3 +1,8 @@
+Install
+===============
+```html
+npm install mysql@2.0.0-rc1
+```
 Simple
 ================
  * @author herbertliu
