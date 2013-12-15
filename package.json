@@ -1,0 +1,24 @@
+{
+  "name": "imweb-badjs",
+  "version": "0.0.1",
+  "description": "report with badjs based on simple!",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"badjs.init\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/herbertliuhb/badjs.git"
+  },
+  "keywords": [
+    "badjs",
+    "report",
+    "imweb"
+  ],
+  "author": "herbertliu",
+  "license": "\"report error message with badjs\"",
+  "bugs": {
+    "url": "https://github.com/herbertliuhb/badjs/issues"
+  },
+  "homepage": "https://github.com/herbertliuhb/badjs"
+}
