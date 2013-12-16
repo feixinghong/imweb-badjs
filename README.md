@@ -1,8 +1,3 @@
-Install
-===============
-```html
-npm install imweb-badjs
-```
 Simple
 ================
  * @author herbertliu
